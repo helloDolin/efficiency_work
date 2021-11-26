@@ -9,5 +9,4 @@
 
 ## Python
 * 导出当前环境所有依赖包：pip3 freeze > requirements.txt
-
-
+* 安装：pip3 install -r requirements.txt
