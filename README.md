@@ -55,6 +55,12 @@ git config user.name 'helloDolin'
 git config user.email '366688603@qq.com'
 (当你想针对特定项目使用不同的用户名称与邮件地址时，可以在那个项目目录下运 行没有 --global 选项的命令来配置。)
 ```
+
+### 查看 git 配置
+```
+git config --list
+
+```
 ### mac finder 支持webp预览
 ```
 curl -L https://raw.github.com/emin/WebPQuickLook/master/install-all.sh | sh
