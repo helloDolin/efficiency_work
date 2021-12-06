@@ -58,6 +58,7 @@ git config user.email '366688603@qq.com'
 
 ### 查看 git 配置
 ```
+
 git config --list
 ```
 ### mac finder 支持webp预览
